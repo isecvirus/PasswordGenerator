@@ -1,5 +1,5 @@
 # Usage
-- <<num>>
+- \<num\>
     - length of random password.
 
 # Commands

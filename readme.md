@@ -1,11 +1,19 @@
-# Usage
-- \<num\>
-    - length of random password.
+# Version
+- v1.0
+    - Simple (Command line interface) password generator
+        - oneway cli input
+    # Usage
+        - \<num\>
+            - length of random password.
 
-# Commands
-- 0
-    - Show help menu.
-
+    # Commands
+        - 0
+            - Show help menu.
+- v2.0
+    - Graphical user interface
+        - \<Generate\> Button
+        - Password length \<Spinner\> box
+        - \<TextField\> output
 
 
 ## Characters:
